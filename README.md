@@ -27,6 +27,8 @@ https://towardsdatascience.com/optimize-data-warehouse-storage-with-views-and-ta
 
 
 
+### Miscellaneous
+https://towardsdatascience.com/native-support-of-categories-in-xgboost-how-does-it-work-d359096bd003
 
 
 ### Reinforcement Learning
