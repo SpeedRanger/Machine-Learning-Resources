@@ -13,6 +13,8 @@ Repository for all my learnings related to ML.
 ### Probability and Statistics
 David Lane’s online statistics resource has a section on percentiles: https://onlinestatbook.com/2/introduction/percentiles.html
 
+#### Books
+Probability and Statistics for Data Scientists, 2nd Edition : [Code](https://github.com/gedeck/practical-statistics-for-data-scientists)
 ## Machine Learning Lifecycle
 ### EDA and Feature Engineering
 
