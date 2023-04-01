@@ -13,6 +13,9 @@ Repository for all my learnings related to ML.
 ### Probability and Statistics
 David Lane’s online statistics resource has a section on percentiles: https://onlinestatbook.com/2/introduction/percentiles.html
 
+### Pandas
+A collection of notebooks behind my series on writing idiomatic pandas: https://github.com/TomAugspurger/effective-pandas
+
 #### Books
 **Practical Statistics for Data Scientists, 2nd Edition** [Code](https://github.com/gedeck/practical-statistics-for-data-scientists)
 ## Machine Learning Lifecycle
